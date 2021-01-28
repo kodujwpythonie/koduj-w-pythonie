@@ -68,7 +68,7 @@ class Game:
             "rozgrywa się w szkole, pozornie najnudniejszym miejscu "
             "na świecie? Może wspólnie uda nam się to miejsce trochę, "
             "ekhm... rozruszać? Znajdź i zbierz wszystkie klucze aby wejść do "
-            "rozsadzanej basami auli, na koncert najgorętszegobandu Europy! "
+            "rozsadzanej basami auli, na koncert najgorętszego bandu Europy! "
             "\n\n"
             "wyjście z gry - klawisz 'Q'"
             "\n\n"
